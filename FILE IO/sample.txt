@@ -1,0 +1,1 @@
+This file is reading mode for 2. open_a_file
