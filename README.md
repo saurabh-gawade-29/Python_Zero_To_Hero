@@ -1,5 +1,17 @@
+
 # Python_Zero_To_Hero
 
-Don't Worry You are not ZERO
+In this Repo you will get all the python basic code for learn and practice
 
-In that Repo you will get all the python basic code for learn and practice
+
+## Lessons Learned
+
+Basics of Python
+
+File Handling
+
+Python Modules
+
+
+
+
